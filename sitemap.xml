@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+
     <sitemap>
-        <loc>http://www.huweihuang.com/post-sitemap.xml</loc>
+        <loc>solitudejovem.github.io/post-sitemap.xml</loc>
         <lastmod>2019-06-27T00:36:51.558Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.huweihuang.com/page-sitemap.xml</loc>
+        <loc>solitudejovem.github.io/page-sitemap.xml</loc>
         <lastmod>2019-06-26T19:38:09.848Z</lastmod>
     </sitemap>
 
